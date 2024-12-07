@@ -38,4 +38,6 @@ Follow these steps to set up JavaFlood:
 ```bash
 git clone https://github.com/your-repo/javaflood.git
 cd javaflood
-npm install  # Or your preferred setup commands
+apt install nodejs
+apt install npm
+npm i  ( modules ) 
