@@ -27,8 +27,8 @@
 
 ### 📷 **Screenshots**  
 Here’s a sneak peek of JavaFlood in action:  
-![Screenshot 1](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
-![Screenshot 2](https://media.giphy.com/media/3o6fJ1BM7x9wdwAp0k/giphy.gif)
+![Screenshot 1](https://ibb.co.com/JQQBk6w)  
+![Screenshot 2](https://ibb.co.com/WpMw7hQ)
 
 ---
 
