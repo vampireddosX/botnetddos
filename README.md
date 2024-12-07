@@ -1,6 +1,6 @@
 # 💀 **JavaFlood: Rule the Internet** 💀  
 
-![Hacker GIF](https://media.giphy.com/media/3oKIPa2TdahY8g1z0o/giphy.gif)
+![Hacker GIF](https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif)
 
 ---
 
@@ -14,7 +14,7 @@
 📢 **Big @vampireballs Telegram Group**  
 🔥 Connect with the hackers' circle – [Click to Join](https://t.me/vampireballs)  
 
-![Telegram GIF](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+![Telegram GIF](https://media.tenor.com/2FL_HujhNUcAAAAi/gruppt.gif)
 
 ---
 
